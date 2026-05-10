@@ -31,7 +31,7 @@ These simple rules combine to create emergent flocking behaviour.
 
 Open `index.html` in a browser.
 
-Or deploy it using GitHub Pages.
+Or deploy it using GitHub Pages: https://ditaveve.github.io/Boids/boid.js
 
 ## Notes
 
